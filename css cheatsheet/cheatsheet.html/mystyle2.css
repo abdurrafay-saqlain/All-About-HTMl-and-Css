@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.shell.com/energy-and-innovation/new-energies/nature-based-solutions/_jcr_content/pagePromo/image.img.960.jpeg/1554332446421/canopy-header.jpeg);
+    background-size: auto;
+    background-position: center;
+    font-family: sans-serif;
+}
+.login-box
+{
+width: 320px;
+height: 420px;
+background: rgba(124, 124, 124, 0.5);
+color: #fff;
+top: 50%;
+left:50%;
+position: absolute;
+transform: translate(-50%,-50%);
+box-sizing: border-box;
+padding: 70px 30px;
+border-radius: 5px;
+}
+.logo{
+    width: 100px;
+    height:100px ;
+    border-radius:50% ;
+    position: absolute;
+    top: 23px;
+    left: calc(50% - 50px);
+}
+h1{
+    position: absolute;
+    left: 422px;
+    top: 89px;
+    text-align: center;
+}
+.username{
+    position: absolute;
+    top: 176px;
+    left: 488px;
+    
+}
+.fill{
+    position: absolute;
+    top: 238px;
+    left: 468px;
+    border: none;
+    border-bottom:1px solid #fff;
+    background: transparent;
+    outline: none;
+    color: #fff;
+;
+}
+.password{
+    position: absolute;
+    top: 238px;
+    left: 488px;
+  
+}
+.password2{
+    position: absolute;
+    top: 300px;
+    left: 466px;
+    border: none;
+    border-bottom:1px solid #fff;
+    background: transparent;
+    outline: none;
+    color: #fff;
+  
+}
+.btn{
+    position: absolute;
+    top: 337px;
+    left: 519px;
+    border: none;
+    outline: none;
+    color: rgb(27, 26, 26);
+    border-radius: 1px;
+    height: 29px;
+    width: 81px;
+    background: #1c8adb;
+    font-size: 19px;
+    font: bold;
+
+}
+.forget{
+    position: absolute;
+    top: 368px;
+    left: 450px;}

@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: url(https://images.pexels.com/photos/230794/pexels-photo-230794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) center center no-repeat fixed;
+   
+    background-size: cover;
+}
+.container{
+   
+    color: white;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+.box1{
+    position: absolute;
+    top:54%;
+    left: 41%;   
+    
+}
+    .box2{
+        position: absolute;
+        top : 58%;
+        left : 41%;
+    }
+    .login{
+        font-family: 'PT Serif', serif;
+        font-size: 40px;
+    border-bottom: 5px solid purple;
+    margin-bottom: 43%;
+    padding: 13px 0;
+    }
+    .box1{
+        width: 100%;
+       
+           }
+    .box1 input{
+        width: 18%;
+        font-size: 20px;
+        margin: -1px 34px;
+        border: none;
+        outline: none;
+        color: white;
+        background: none;
+        position: absolute;
+        top: 24px;
+        left: -13px;
+        border-bottom: 2px solid purple;
+        
+    }
+    .box2 input{
+        width: 230px;
+    font-size: 20px;
+    margin:38px 7px 4px;
+    margin-left: 25px;
+    outline: none;
+    color: black;
+    background: none;
+    position: absolute;
+    top: 22px;
+    border: none;
+    border-bottom: 2px solid purple;
+    left: -11px;
+    
+}
+        .box1 i{
+            width: 25px;
+            text-align: center;
+            top: 26px;
+            position: absolute;
+            color: white;
+            left: -12px;
+        }
+        
+        .box2 i{
+            width: 188px;
+            font-size: 20px;
+            margin: 35px 11px 4px;
+            margin-left: -1px;
+            outline: none;
+            color: white;
+            background: none;
+            position: absolute;
+            top: 31px;
+            left: -12px;
+        }
+        
+        .btn{
+            color: white;
+            position: absolute;
+            top: 468px;
+            left: 557px;
+            cursor: pointer;
+            width: 10%;
+            margin: 12px 0;
+            padding:10px 21px;
+            border-radius: 10px;
+            border: 2px solid purple;
+            font-size: 18px;
+            background: none;
+            font-weight: bold;
+        }
+        .btn:hover{
+            color: purple;
+            background: white;
+        }

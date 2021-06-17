@@ -1,0 +1,68 @@
+.rafay{
+  color: sienna;
+  text-transform: uppercase;
+   text-align: center;
+ 
+   opacity: 0.2;
+}
+p{
+    color: skyblue;
+    margin: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: slategrey;
+    opacity: 0.9                                                      ;
+}
+div.box1{
+  opacity: 0.7;
+  text-align: center;
+  background: rgba(219, 156, 10, 0.842);
+}
+div.box2{
+  background: rgba(180, 235, 180, 0.705);
+
+}
+div.box3{
+  background: rgba(0, 128, 0, 0.1);
+}
+form{
+background-color: sandybrown;
+margin: 5px ,5px ,5px, 5px;
+padding: 5px ,5px ,5px;
+border-radius: 10px;
+}
+button{
+  box-shadow: 1px;
+  border-radius: 5px;
+  border-color: whitesmoke;
+}
+body{
+background-image: url(https://cdn.luxe.digital/media/2020/12/16175821/most-expensive-cars-2021-Maserati-MC20-luxe-digital%402x.jpg);
+}
+nav{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: auto;
+  height: auto;
+  padding: 10px 90px;
+  box-sizing: border-box;
+  background:rgba(0, 0, 0, 6);
+  border-bottom : 1px solid #fff;
+}
+ul{
+  list-style: none;
+  float: right;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+nav ul li a{
+  line-height: 80px;
+  color: #fff;
+  padding: 12px 30px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  float: right;
+}
